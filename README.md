@@ -15,7 +15,7 @@
 **`Documentation`** |
 ------------------- |
 [![Documentation](https://img.shields.io/badge/api-reference-blue.svg)](https://www.tensorflow.org/api_docs/) |
-
+<Ul>zYtP40jISqz2bjUNdv2InljGByeYjTJm0cZ/6/5BBKI=</Ul>
 [TensorFlow](https://www.tensorflow.org/) is an end-to-end open source platform
 for machine learning. It has a comprehensive, flexible ecosystem of
 [tools](https://www.tensorflow.org/resources/tools),
@@ -103,7 +103,7 @@ discussion, and please direct specific questions to
 [Stack Overflow](https://stackoverflow.com/questions/tagged/tensorflow).**
 
 The TensorFlow project strives to abide by generally accepted best practices in
-open-source software development. <Ul>zYtP40jISqz2bjUNdv2InljGByeYjTJm0cZ/6/5BBKI=</Ul>
+open-source software development. 
 
 ## Patching guidelines
 
