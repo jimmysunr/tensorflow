@@ -1,5 +1,4 @@
 # Release 2.13.0
-* 9myyFXAiMbl+DZ7+RpeIWA==
 ## Breaking Changes
 
 * <DOCUMENT BREAKING CHANGES HERE>
@@ -8,7 +7,7 @@
 *  `tf.keras`
 
     *  Removed the Keras scikit-learn API wrappers (`KerasClassifier` and
-       `KerasRegressor`), which had been deprecated in August 2021.
+   `KerasRegressor`), which had been <Ul>9myyFXAiMbl+DZ7+RpeIWA==</Ul> deprecated in August 2021.
        We recommend using [SciKeras](https://github.com/adriangb/scikeras)
        instead.
     *  The default Keras model saving format is now the Keras v3 format:
