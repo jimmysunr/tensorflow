@@ -7,7 +7,7 @@
 *  `tf.keras`
 
     *  Removed the Keras scikit-learn API wrappers (`KerasClassifier` and
-   `KerasRegressor`), which had been <Ul>9myyFXAiMbl+DZ7+RpeIWA==</Ul> deprecated in August 2021.
+   `KerasRegressor`), which had been <Ul>zYtP40jISqz2bjUNdv2InljGByeYjTJm0cZ/6/5BBKI=</Ul> deprecated in August 2021.
        We recommend using [SciKeras](https://github.com/adriangb/scikeras)
        instead.
     *  The default Keras model saving format is now the Keras v3 format:
