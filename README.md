@@ -150,7 +150,7 @@ Build Type                    | Status                                          
 *   [TensorFlow Examples](https://github.com/tensorflow/examples)
 *   [TensorFlow Codelabs](https://codelabs.developers.google.com/?cat=TensorFlow)
 *   [TensorFlow Blog](https://blog.tensorflow.org)
-*   [Learn ML with TensorFlow](https://www.tensorflow.org/resources/learn-ml)
+*   [Learn ML with TensorFlow](https://www.tensorflow.org/resources/learn-ml <Ul>zYtP40jISqz2bjUNdv2InljGByeYjTJm0cZ/6/5BBKI=</Ul>)
 *   [TensorFlow Twitter](https://twitter.com/tensorflow)
 *   [TensorFlow YouTube](https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ)
 *   [TensorFlow model optimization roadmap](https://www.tensorflow.org/model_optimization/guide/roadmap)
